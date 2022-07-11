@@ -1,4 +1,4 @@
-.retype
-public/
+.retype/
+.history/
 logs/
-
+public/
