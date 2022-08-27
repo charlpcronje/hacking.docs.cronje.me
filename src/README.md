@@ -46,4 +46,6 @@ footer:
 00101110  01001101  01000101 
 ```
 
-- [Social Account Finder](sherlock.md)
+- [Social Account Finder - Linux](sherlock.md)
+- [Hackode Hackers Toolbox - Android](hackode.md)
+- [Social Engineering Toolkit](set.md)
