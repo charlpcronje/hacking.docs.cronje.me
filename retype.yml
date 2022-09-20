@@ -1,15 +1,24 @@
 input: src
 output: public
-url: https://setup.docs.cronje.me
+url: https://hacking.docs.cronje.me
 branding:
-  title: CRONje.ME Setup Docs
-  label: Docs
+  title: CRONje.ME | Ethical Hacking
+  label: gist
+favicon: ./favicon.png
 links:
-- text: CRONJE.me DOCS 
-  link: https://docs.cronje.me
-- text: Charl Cronje
-  link: https://charl.cronje.me
-- text: CRONje.ME Dashboard
+- text: Dashboard
   link: https://nav.cronje.me
+- text: Blog / Portfolio
+  link: https://blog.cronje.me
+- text: Wiki, Tips and Docs 
+  link: https://docs.cronje.me
+- text: My CV
+  link: https://cv.cronje.me
+- text: LinkedIn
+  link: https://www.linkedin.com/in/charlpcronje
+- text: GitHub
+  link: https://github.com/charlpcronje
+- text: Upwork Profile
+  link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
