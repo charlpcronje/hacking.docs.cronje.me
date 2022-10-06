@@ -198,7 +198,7 @@ router.get('/', (ctx, next) => {
 });
   
 // Form is submitted
-router.post('/',async ctx => {
+router.post('/formSubmit',async ctx => {
     // the parsed body will store in ctx.request.body
     // if nothing was parsed, body will be an empty object {}
     ctx.body = ctx.request.body;
