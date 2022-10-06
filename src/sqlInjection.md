@@ -202,9 +202,7 @@ app
 .use(router.allowedMethods());
 ```
 
-You can find the code for above example here: [GitHub]()
-
-
+You can find the code for above example here: [GitHub](https://github.com/charlpcronje/hacking.docs.cronje.me/tree/main/src/sql/crypto)
 
 
 #### Generic SQL Injection Payloads
