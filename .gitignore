@@ -2,3 +2,4 @@
 .history/
 logs/
 public/
+**/node_modules/

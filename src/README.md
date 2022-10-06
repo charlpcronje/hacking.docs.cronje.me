@@ -30,7 +30,7 @@ links:
   link: https://www.linkedin.com/in/charlpcronje
 - text: GitHub
   link: https://github.com/charlpcronje
-- text: Upwork Profile
+- text: UpWork Profile
   link: https://www.upwork.com/freelancers/~01ccb1439024ec9c50
 footer:
   copyright: "webAlly &copy; Copyright {{ year }}. All rights reserved."
@@ -46,6 +46,7 @@ footer:
 00101110  01001101  01000101 
 ```
 
-- [Social Account Finder - Linux](sherlock.md)
-- [Hackode Hackers Toolbox - Android](hackode.md)
-- [Social Engineering Toolkit](set.md)
+- [Social Account Finder - Linux](./sherlock.md)
+- [Hackode Hackers Toolbox - Android](./hackode.md)
+- [Social Engineering Toolkit](./set.md)
+- [SQL Injection](./sqlInjection.md)
