@@ -148,6 +148,18 @@ touch app.js
 
 Add the following content
 
+**UPDATE** `2022-10-06`: If this is added to middleware in a framework like Nuxt it could almost completely be automated, the only extra work would be t create the regular expressions for every field, of course a lot of fields would have the same regex in which case `typeof field == 'array'` check them all with the same regex. 
+
+Also one thing I can say about regex, this is the place to comment, comments are very cool when you write regex, otherwise you might run into this problem
+
+```js
+// When I wrote this statement only God and I knew what I was doing
+
+sting.test(/(*[0-9]..(..).())); // Now only God knows. 🤨
+```
+
+> Demo app to demonstrate the concept
+
 ```js
 // app.js
 
